@@ -3,8 +3,8 @@ spring:
     name: image
 
 wasabi:
-  access-key: ${WASABI_ACCESS_KEY:}
-  secret-key: ${WASABI_SECRET_KEY:}
-  region: ${WASABI_REGION:us-east-1}
-  endpoint: ${WASABI_ENDPOINT:}
-  bucket-name: ${WASABI_BUCKET_NAME:}
+  access-key: PX088GGZ038MS0WKFKY6
+  secret-key: kva4aCngUSUhq4qo5hmGA5VWeYqn1VRgk6Y2NqrT
+  region: us-east-1
+  endpoint: https://s3.wasabisys.com
+  bucket-name: certeiro
