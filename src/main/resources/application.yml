@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: image
+
+wasabi:
+  access-key: ${WASABI_ACCESS_KEY:}
+  secret-key: ${WASABI_SECRET_KEY:}
+  region: ${WASABI_REGION:us-east-1}
+  endpoint: ${WASABI_ENDPOINT:}
+  bucket-name: ${WASABI_BUCKET_NAME:}
